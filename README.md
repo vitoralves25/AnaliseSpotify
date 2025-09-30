@@ -1,2 +1,2 @@
 # AnaliseSpotify
-MiniProjeto de análise de clientes da Sporify
+MiniProjeto de análise de clientes da Spotify
